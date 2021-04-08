@@ -3,4 +3,5 @@
     <string name="hint">Введите текст</string>
     <string name="send">send</string>
     <string name="messageView">Пусто</string>
+    <string name="chooserString">Выберите приложение ...</string>
 </resources>
